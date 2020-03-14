@@ -11,7 +11,7 @@
 
 
 
-// ESCRIBE INFORMACION A UNA BASE DE DATOS DEL PROYECTO 
+// ESCRIBE INFORMACION A UNA BASE DE DATOS DEL PROYECTO  https://github.com/Krim10000/Django-TEMP
 
 #include <Arduino.h>
 #include <WiFi.h>
